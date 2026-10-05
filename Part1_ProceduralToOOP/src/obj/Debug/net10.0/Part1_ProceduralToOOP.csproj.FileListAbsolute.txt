@@ -1,0 +1,15 @@
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\bin\Debug\net10.0\Part1_ProceduralToOOP.exe
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\bin\Debug\net10.0\Part1_ProceduralToOOP.deps.json
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\bin\Debug\net10.0\Part1_ProceduralToOOP.runtimeconfig.json
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\bin\Debug\net10.0\Part1_ProceduralToOOP.dll
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\bin\Debug\net10.0\Part1_ProceduralToOOP.pdb
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\obj\Debug\net10.0\Part1_ProceduralToOOP.GeneratedMSBuildEditorConfig.editorconfig
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\obj\Debug\net10.0\Part1_ProceduralToOOP.AssemblyInfoInputs.cache
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\obj\Debug\net10.0\Part1_ProceduralToOOP.AssemblyInfo.cs
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\obj\Debug\net10.0\Part1_ProceduralToOOP.csproj.CoreCompileInputs.cache
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\obj\Debug\net10.0\Part1_ProceduralToOOP.sourcelink.json
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\obj\Debug\net10.0\Part1_ProceduralToOOP.dll
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\obj\Debug\net10.0\refint\Part1_ProceduralToOOP.dll
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\obj\Debug\net10.0\Part1_ProceduralToOOP.pdb
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\obj\Debug\net10.0\Part1_ProceduralToOOP.genruntimeconfig.cache
+d:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part1_ProceduralToOOP\src\obj\Debug\net10.0\ref\Part1_ProceduralToOOP.dll
