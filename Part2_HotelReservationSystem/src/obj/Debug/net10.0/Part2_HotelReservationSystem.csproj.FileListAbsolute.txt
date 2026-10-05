@@ -1,0 +1,15 @@
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\bin\Debug\net10.0\Part2_HotelReservationSystem.exe
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\bin\Debug\net10.0\Part2_HotelReservationSystem.deps.json
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\bin\Debug\net10.0\Part2_HotelReservationSystem.runtimeconfig.json
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\bin\Debug\net10.0\Part2_HotelReservationSystem.dll
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\bin\Debug\net10.0\Part2_HotelReservationSystem.pdb
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\obj\Debug\net10.0\Part2_HotelReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\obj\Debug\net10.0\Part2_HotelReservationSystem.AssemblyInfoInputs.cache
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\obj\Debug\net10.0\Part2_HotelReservationSystem.AssemblyInfo.cs
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\obj\Debug\net10.0\Part2_HotelReservationSystem.csproj.CoreCompileInputs.cache
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\obj\Debug\net10.0\Part2_HotelReservationSystem.sourcelink.json
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\obj\Debug\net10.0\Part2_HotelReservationSystem.dll
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\obj\Debug\net10.0\refint\Part2_HotelReservationSystem.dll
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\obj\Debug\net10.0\Part2_HotelReservationSystem.pdb
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\obj\Debug\net10.0\Part2_HotelReservationSystem.genruntimeconfig.cache
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part2_HotelReservationSystem\src\obj\Debug\net10.0\ref\Part2_HotelReservationSystem.dll
