@@ -1,0 +1,15 @@
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\bin\Debug\net10.0\Part3_BuilderPattern.exe
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\bin\Debug\net10.0\Part3_BuilderPattern.deps.json
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\bin\Debug\net10.0\Part3_BuilderPattern.runtimeconfig.json
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\bin\Debug\net10.0\Part3_BuilderPattern.dll
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\bin\Debug\net10.0\Part3_BuilderPattern.pdb
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\obj\Debug\net10.0\Part3_BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\obj\Debug\net10.0\Part3_BuilderPattern.AssemblyInfoInputs.cache
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\obj\Debug\net10.0\Part3_BuilderPattern.AssemblyInfo.cs
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\obj\Debug\net10.0\Part3_BuilderPattern.csproj.CoreCompileInputs.cache
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\obj\Debug\net10.0\Part3_BuilderPattern.sourcelink.json
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\obj\Debug\net10.0\Part3_BuilderPattern.dll
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\obj\Debug\net10.0\refint\Part3_BuilderPattern.dll
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\obj\Debug\net10.0\Part3_BuilderPattern.pdb
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\obj\Debug\net10.0\Part3_BuilderPattern.genruntimeconfig.cache
+D:\Diploma\Assignments\Submissions\Assignment-5\saifnasr2-OOP-Assignment-1\Part3_BuilderPattern\src\obj\Debug\net10.0\ref\Part3_BuilderPattern.dll
